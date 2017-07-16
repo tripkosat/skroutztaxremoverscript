@@ -1,0 +1,2 @@
+# skroutztaxremoverscript
+for tampermonkey
